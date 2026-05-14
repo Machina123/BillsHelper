@@ -81,7 +81,8 @@ export default function CreateBatch() {
         errs.amount = t("createBatch.errors.amountInvalid");
         valid = false;
       }
-      if (!item.title.trim()) {
+      const recipient = (recipients as Recipient[]).find((r) => r.id === id);
+      if (!item.title.trim() && !recipient?.title_suffix) {
         errs.title = t("createBatch.errors.titleRequired");
         valid = false;
       }
@@ -233,14 +234,27 @@ export default function CreateBatch() {
                     </div>
 
                     <div className="col-span-2">
-                      <label className={labelClass}>{t("createBatch.transferTitle")} *</label>
-                      <input
-                        type="text"
-                        className={errs.title ? inputError : inputNormal}
-                        value={item.title}
-                        onChange={(e) => setItem(r.id, "title", e.target.value)}
-                        maxLength={140}
-                      />
+                      <label className={labelClass}>
+                        {t("createBatch.transferTitle")} {!r.title_suffix && "*"}
+                      </label>
+                      <div className={`flex items-stretch rounded border ${
+                        errs.title
+                          ? "border-red-400 dark:border-red-600 focus-within:ring-2 focus-within:ring-red-300 dark:focus-within:ring-red-800"
+                          : "border-gray-300 dark:border-gray-600 focus-within:ring-2 focus-within:ring-blue-300 dark:focus-within:ring-blue-700"
+                      } bg-white dark:bg-gray-700`}>
+                        <input
+                          type="text"
+                          className="flex-1 min-w-0 px-3 py-1.5 text-sm text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 focus:outline-none bg-transparent rounded-l"
+                          value={item.title}
+                          onChange={(e) => setItem(r.id, "title", e.target.value)}
+                          maxLength={140}
+                        />
+                        {r.title_suffix && (
+                          <span className="flex items-center px-2.5 text-xs text-gray-700 dark:text-gray-200 bg-gray-50 dark:bg-gray-600/50 border-l border-gray-300 dark:border-gray-600 rounded-r whitespace-nowrap">
+                            {r.title_suffix}
+                          </span>
+                        )}
+                      </div>
                       {errs.title && <p className="text-xs text-red-500 dark:text-red-400 mt-0.5">{errs.title}</p>}
                     </div>
 

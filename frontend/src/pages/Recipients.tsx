@@ -237,24 +237,6 @@ export default function Recipients() {
       {/* Header */}
       <div className="flex flex-wrap items-center gap-3 mb-4">
         <h1 className="text-xl font-semibold text-gray-800 dark:text-gray-100">{t("recipients.title")}</h1>
-        {recipients.length > 0 && (
-          <div className="flex items-center gap-1 text-xs text-gray-500 dark:text-gray-400">
-            <span>{t("recipients.sort.label")}:</span>
-            {(["name", "short_name"] as const).map((field) => (
-              <button key={field} onClick={() => toggleSort(field)}
-                className={`px-2 py-0.5 rounded flex items-center gap-1 transition-colors ${
-                  sortField === field
-                    ? "bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300 font-medium"
-                    : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400"
-                }`}>
-                {t(`recipients.sort.${field === "name" ? "name" : "shortName"}`)}
-                {sortField === field && (
-                  <i className={`lni ${sortDir === "asc" ? "lni-arrow-up" : "lni-arrow-down"} text-xs leading-none`} />
-                )}
-              </button>
-            ))}
-          </div>
-        )}
         <div className="flex gap-2 ml-auto">
           <input ref={fileInputRef} type="file" accept=".txt" className="hidden"
             title={t("recipients.import.prompt")}
@@ -273,6 +255,26 @@ export default function Recipients() {
           )}
         </div>
       </div>
+
+      {/* Sort controls */}
+      {recipients.length > 0 && (
+        <div className="flex items-center gap-1 text-xs text-gray-500 dark:text-gray-400 mb-4">
+          <span>{t("recipients.sort.label")}:</span>
+          {(["name", "short_name"] as const).map((field) => (
+            <button key={field} onClick={() => toggleSort(field)}
+              className={`px-2 py-0.5 rounded flex items-center gap-1 transition-colors ${
+                sortField === field
+                  ? "bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300 font-medium"
+                  : "hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400"
+              }`}>
+              {t(`recipients.sort.${field === "name" ? "name" : "shortName"}`)}
+              {sortField === field && (
+                <i className={`lni ${sortDir === "asc" ? "lni-arrow-up" : "lni-arrow-down"} text-xs leading-none`} />
+              )}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* Import feedback */}
       {importResult && (
