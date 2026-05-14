@@ -61,18 +61,13 @@ def _parse_file(content: bytes) -> tuple[list[dict], list[str]]:
                 errors.append(f"Line {line_num}: invalid NRB '{nrb}'")
                 continue
 
-            # Typ (payment method) at position 6 is optional.
-            # 9 fields → Typ present:  ...|nrb|payment_type|title|mobile_auth
-            # 8 fields → Typ absent:   ...|nrb|title|mobile_auth
-            if len(fields) >= 9:
-                payment_method_raw = fields[6].strip()
-                payment_method = payment_method_raw if payment_method_raw in ("0", "1") else "1"
-                title_suffix_raw = fields[7].strip()
-            else:
-                payment_method = "1"
-                title_suffix_raw = fields[6].strip()
-
-            title_suffix: Optional[str] = title_suffix_raw or None
+            # Tytułem is always second-to-last, mobile_auth is always last.
+            # Between NRB and Tytułem there may be one or more optional fields (Typ,
+            # and potentially extra fields depending on the bank's export version).
+            # We identify Typ as the field immediately before Tytułem when it is "0" or "1".
+            title_suffix: Optional[str] = fields[-2].strip() or None
+            payment_method_candidate = fields[-3].strip() if len(fields) >= 3 else ""
+            payment_method = payment_method_candidate if payment_method_candidate in ("0", "1") else "1"
 
             short_name_raw = fields[2].strip() if len(fields) > 2 else ""
             name_raw = fields[3].strip()
