@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "101",
+    "name": "Narodowy Bank Polski"
+  },
+  {
+    "id": "102",
+    "name": "IKO, Inteligo, iPKO, PKO Bank Polski SA, PKO BP SA, SKO"
+  },
+  {
+    "id": "103",
+    "name": "Citi Handlowy"
+  },
+  {
+    "id": "105",
+    "name": "ING Bank Śląski Spółka Akcyjna"
+  },
+  {
+    "id": "106",
+    "name": "Bank BPH Spółka Akcyjna"
+  },
+  {
+    "id": "109",
+    "name": "Erste Bank Polska Spółka Akcyjna"
+  },
+  {
+    "id": "113",
+    "name": "Bank Gospodarstwa Krajowego"
+  },
+  {
+    "id": "114",
+    "name": "mBank Spółka Akcyjna"
+  },
+  {
+    "id": "116",
+    "name": "Bank Millennium Spółka Akcyjna"
+  },
+  {
+    "id": "122",
+    "name": "Bank Handlowo-Kredytowy Spółka Akcyjna w Katowicach w likwidacji"
+  },
+  {
+    "id": "124",
+    "name": "Bank Pekao S.A."
+  },
+  {
+    "id": "132",
+    "name": "Bank Pocztowy Spółka Akcyjna"
+  },
+  {
+    "id": "154",
+    "name": "Bank Ochrony Środowiska Spółka Akcyjna"
+  },
+  {
+    "id": "161",
+    "name": "SGB-Bank Spółka Akcyjna"
+  },
+  {
+    "id": "168",
+    "name": "PLUS BANK Spółka Akcyjna"
+  },
+  {
+    "id": "184",
+    "name": "Société Générale Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "187",
+    "name": "Nest Bank Spółka Akcyjna"
+  },
+  {
+    "id": "189",
+    "name": "Pekao Bank Hipoteczny Spółka Akcyjna"
+  },
+  {
+    "id": "191",
+    "name": "Deutsche Bank Polska Spółka Akcyjna"
+  },
+  {
+    "id": "193",
+    "name": "Bank BPS"
+  },
+  {
+    "id": "194",
+    "name": "Credit Agricole Bank Polska Spółka Akcyjna"
+  },
+  {
+    "id": "203",
+    "name": "BNP Paribas Bank Polska Spółka Akcyjna"
+  },
+  {
+    "id": "212",
+    "name": "Santander Consumer Bank Spółka Akcyjna"
+  },
+  {
+    "id": "215",
+    "name": "mBank Hipoteczny SA"
+  },
+  {
+    "id": "216",
+    "name": "Toyota Bank Polska Spółka Akcyjna"
+  },
+  {
+    "id": "219",
+    "name": "DNB Bank Polska Spółka Akcyjna"
+  },
+  {
+    "id": "235",
+    "name": "BNP Paribas S.A. Oddział w Polsce"
+  },
+  {
+    "id": "236",
+    "name": "Danske Bank A/S Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "237",
+    "name": "Skandinaviska Enskilda Banken AB (Spółka Akcyjna) - Oddział w Polsce"
+  },
+  {
+    "id": "239",
+    "name": "CAIXABANK, S.A. (SPÓŁKA AKCYJNA) ODDZIAŁ W POLSCE"
+  },
+  {
+    "id": "241",
+    "name": "Elavon Merchant Services"
+  },
+  {
+    "id": "247",
+    "name": "HAITONG BANK, S.A. Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "248",
+    "name": "Getin Noble Bank Spółka Akcyjna w upadłości"
+  },
+  {
+    "id": "249",
+    "name": "Alior Bank Spółka Akcyjna"
+  },
+  {
+    "id": "251",
+    "name": "Aareal Bank Aktiengesellschaft (Spółka Akcyjna) - Oddział w Polsce"
+  },
+  {
+    "id": "254",
+    "name": "Citibank Europe plc (Publiczna Spółka Akcyjna) Oddział w Polsce"
+  },
+  {
+    "id": "255",
+    "name": "Ikano Bank AB (publ) Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "256",
+    "name": "Nordea Bank Abp Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "260",
+    "name": "BANK OF CHINA"
+  },
+  {
+    "id": "262",
+    "name": "Industrial and Commercial Bank of China (Europe) S.A. (Spółka Akcyjna) Oddział w Polsce"
+  },
+  {
+    "id": "264",
+    "name": "RCI Banque Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "265",
+    "name": "EUROCLEAR Bank SA/NV (Spółka Akcyjna) - Oddział w Polsce"
+  },
+  {
+    "id": "266",
+    "name": "Intesa Sanpaolo S.p.A. Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "267",
+    "name": "Western Union Business Solutions"
+  },
+  {
+    "id": "269",
+    "name": "PKO Bank Hipoteczny Spółka Akcyjna"
+  },
+  {
+    "id": "270",
+    "name": "TF BANK AB (Spółka Akcyjna) Oddział w Polsce"
+  },
+  {
+    "id": "272",
+    "name": "AS Inbank Spółka Akcyjna - Oddział w Polsce"
+  },
+  {
+    "id": "273",
+    "name": "China Construction Bank (Europe) S.A. (Spółka Akcyjna) Oddział w Polsce"
+  },
+  {
+    "id": "275",
+    "name": "John Deere Bank S.A. Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "277",
+    "name": "Volkswagen Bank GmbH Sp. z o.o. Oddział w Polsce"
+  },
+  {
+    "id": "278",
+    "name": "ING Bank Hipoteczny Spółka Akcyjna"
+  },
+  {
+    "id": "279",
+    "name": "Raiffeisen Bank International - Oddział w Polsce"
+  },
+  {
+    "id": "280",
+    "name": "HSBC"
+  },
+  {
+    "id": "281",
+    "name": "Goldman Sachs Bank Europe SE Spółka Europejska Oddział w Polsce"
+  },
+  {
+    "id": "283",
+    "name": "J.P. Morgan SE (Spółka Europejska) Oddział w Polsce"
+  },
+  {
+    "id": "285",
+    "name": "BFF Bank S.p.A. Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "286",
+    "name": "CA Auto Bank S.p.A. Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "287",
+    "name": "BANK NOWY S.A."
+  },
+  {
+    "id": "288",
+    "name": "Allfunds Bank S.A.U. (Spółka Akcyjna) Oddział w Polsce"
+  },
+  {
+    "id": "289",
+    "name": "Hoist Finance AB (publ) Spółka Akcyjna Oddział w Polsce"
+  },
+  {
+    "id": "290",
+    "name": "Millennium Bank Hipoteczny S.A."
+  },
+  {
+    "id": "291",
+    "name": "UniCredit NV/SA Oddział w Polsce"
+  },
+  {
+    "id": "293",
+    "name": "VeloBank Spółka Akcyjna"
+  },
+  {
+    "id": "294",
+    "name": "Morgan Stanley"
+  },
+  {
+    "id": "296",
+    "name": "Woori Bank Europe GmbH spółka z ograniczoną odpowiedzialnością Oddział w Polsce"
+  },
+  {
+    "id": "297",
+    "name": "IBK Bank Polska"
+  },
+  {
+    "id": "298",
+    "name": "Trade Republic Bank GmbH spółka z ograniczoną odpowiedzialnością Oddział w Polsce"
+  },
+  {
+    "id": "60000",
+    "name": "ZUS"
+  },
+  {
+    "id": "60400",
+    "name": "skycash"
+  },
+  {
+    "id": "60700",
+    "name": "Currency One S.A."
+  },
+  {
+    "id": "61600",
+    "name": "Unifiedpost Payments Polish branch"
+  },
+  {
+    "id": "62000",
+    "name": "Autopay Spółka Akcyjna"
+  },
+  {
+    "id": "63000",
+    "name": "Igoria Trade Spółka Akcyjna"
+  },
+  {
+    "id": "63600",
+    "name": "Speedy"
+  },
+  {
+    "id": "70030",
+    "name": "SKOK KOZIENICE"
+  },
+  {
+    "id": "70140",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa w Kostrzynie nad Odrą"
+  },
+  {
+    "id": "70370",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa Ziemi Rybnickiej"
+  },
+  {
+    "id": "70390",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Boże Dary\""
+  },
+  {
+    "id": "70420",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Unii Lubelskiej w Lublinie"
+  },
+  {
+    "id": "70460",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa PROGRES"
+  },
+  {
+    "id": "70480",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Śląsk\" z siedzibą w Rudzie Śląskiej"
+  },
+  {
+    "id": "70520",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Wisła\""
+  },
+  {
+    "id": "70610",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Zygmunta Chmielewskiego"
+  },
+  {
+    "id": "70650",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Franciszka Stefczyka"
+  },
+  {
+    "id": "70790",
+    "name": "Krakowska Spółdzielcza Kasa Oszczędnościowo-Kredytowa w Krakowie"
+  },
+  {
+    "id": "70890",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa ?Szopienice? w Katowicach"
+  },
+  {
+    "id": "70990",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa \"Świdnik\""
+  },
+  {
+    "id": "71050",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa przy Dezamet S.A. w Nowej Dębie"
+  },
+  {
+    "id": "71150",
+    "name": "Spółdzielcza Kasa Oszczędnościowo-Kredytowa ?Centrum?"
+  },
+  {
+    "id": "71180",
+    "name": "SKOK im. Eugeniusza Kwiatkowskiego"
+  },
+  {
+    "id": "71440",
+    "name": "Zachodniopomorska SKOK"
+  },
+  {
+    "id": "71900",
+    "name": "Regionalna Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. św. Brata Alberta"
+  },
+  {
+    "id": "79999",
+    "name": "Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa"
+  },
+  {
+    "id": "8001",
+    "name": "Bank Spółdzielczy w Otwocku"
+  },
+  {
+    "id": "8002",
+    "name": "Bank Spółdzielczy w Piasecznie"
+  },
+  {
+    "id": "8003",
+    "name": "Mazovia Bank Spółdzielczy"
+  },
+  {
+    "id": "8004",
+    "name": "Bank Spółdzielczy w Raszynie"
+  },
+  {
+    "id": "8006",
+    "name": "SK Bank"
+  },
+  {
+    "id": "8008",
+    "name": "Bank Spółdzielczy w Tarczynie"
+  },
+  {
+    "id": "8009",
+    "name": "Mazowiecki Bank Spółdzielczy w Łomiankach"
+  },
+  {
+    "id": "8011",
+    "name": "Bank Spółdzielczy w Nowym Dworze Mazowieckim"
+  },
+  {
+    "id": "8013",
+    "name": "Bank Spółdzielczy w Legionowie"
+  },
+  {
+    "id": "8015",
+    "name": "WBS Bank"
+  },
+  {
+    "id": "8017",
+    "name": "Bank Spółdzielczy w Nadarzynie w upadłości"
+  },
+  {
+    "id": "8019",
+    "name": "Bank Spółdzielczy w Halinowie"
+  },
+  {
+    "id": "8023",
+    "name": "Bank Spółdzielczy w Karczewie"
+  },
+  {
+    "id": "8025",
+    "name": "Bank Spółdzielczy w Białej Podlaskiej"
+  },
+  {
+    "id": "8037",
+    "name": "Bank Spółdzielczy w Łomazach"
+  },
+  {
+    "id": "8038",
+    "name": "Bank Spółdzielczy w Łosicach"
+  },
+  {
+    "id": "8039",
+    "name": "Bank Spółdzielczy w Międzyrzecu Podlaskim"
+  },
+  {
+    "id": "8042",
+    "name": "Bank Spółdzielczy w Parczewie"
+  },
+  {
+    "id": "8046",
+    "name": "Bank Spółdzielczy w Radzyniu Podlaskim"
+  },
+  {
+    "id": "8060",
+    "name": "Bank Spółdzielczy w Białymstoku"
+  },
+  {
+    "id": "8061",
+    "name": "Bank Spółdzielczy w Bielsku Podlaskim"
+  },
+  {
+    "id": "8063",
+    "name": "Bank Spółdzielczy w Brańsku"
+  },
+  {
+    "id": "8071",
+    "name": "Bank Spółdzielczy w Hajnówce"
+  },
+  {
+    "id": "8074",
+    "name": "Bank Spółdzielczy w Juchnowcu Górnym"
+  },
+  {
+    "id": "8076",
+    "name": "Podlaski Bank Spółdzielczy w Knyszynie"
+  },
+  {
+    "id": "8077",
+    "name": "Bank Spółdzielczy w Korycinie"
+  },
+  {
+    "id": "8081",
+    "name": "Bank Spółdzielczy w Łapach"
+  },
+  {
+    "id": "8085",
+    "name": "Bank Spółdzielczy w Mońkach"
+  },
+  {
+    "id": "8086",
+    "name": "Bank Spółdzielczy w Narwi"
+  },
+  {
+    "id": "8092",
+    "name": "Bank Spółdzielczy w Siemiatyczach"
+  },
+  {
+    "id": "8093",
+    "name": "Bank Spółdzielczy w Sokółce"
+  },
+  {
+    "id": "8094",
+    "name": "Bank Spółdzielczy w Suchowoli"
+  },
+  {
+    "id": "8099",
+    "name": "Podlasko-Mazurski Bank Spółdzielczy  w Zabłudowie"
+  },
+  {
+    "id": "8110",
+    "name": "ABS Bank"
+  },
+  {
+    "id": "8111",
+    "name": "Beskidzki Bank Spółdzielczy"
+  },
+  {
+    "id": "8112",
+    "name": "Bank Spółdzielczy w Brzeźnicy"
+  },
+  {
+    "id": "8113",
+    "name": "Bank Spółdzielczy w Cieszynie"
+  },
+  {
+    "id": "8117",
+    "name": "Bank Spółdzielczy w Jasienicy"
+  },
+  {
+    "id": "8118",
+    "name": "Bank Spółdzielczy w Jeleśni"
+  },
+  {
+    "id": "8119",
+    "name": "Bank Spółdzielczy w Kalwarii Zebrzydowskiej"
+  },
+  {
+    "id": "8124",
+    "name": "Bank Spółdzielczy w Porąbce"
+  },
+  {
+    "id": "8125",
+    "name": "Bank Spółdzielczy w Rajczy"
+  },
+  {
+    "id": "8126",
+    "name": "Bank Spółdzielczy w Skoczowie"
+  },
+  {
+    "id": "8128",
+    "name": "Bank Spółdzielczy w Suchej Beskidzkiej"
+  },
+  {
+    "id": "8129",
+    "name": "Bank Spółdzielczy w Ustroniu"
+  },
+  {
+    "id": "8131",
+    "name": "Bank Spółdzielczy w Węgierskiej Górce"
+  },
+  {
+    "id": "8133",
+    "name": "Bank Spółdzielczy w Bystrej"
+  },
+  {
+    "id": "8136",
+    "name": "Bank Spółdzielczy w Zatorze"
+  },
+  {
+    "id": "8137",
+    "name": "Bank Spółdzielczy w Żywcu"
+  },
+  {
+    "id": "8141",
+    "name": "Bank Spółdzielczy w Gilowicach"
+  },
+  {
+    "id": "8142",
+    "name": "Bank Spółdzielczy w Bydgoszczy"
+  },
+  {
+    "id": "8144",
+    "name": "Bank Spółdzielczy w Koronowie"
+  },
+  {
+    "id": "8146",
+    "name": "Bank Spółdzielczy w Chojnicach"
+  },
+  {
+    "id": "8147",
+    "name": "Bank Spółdzielczy w Czersku"
+  },
+  {
+    "id": "8149",
+    "name": "InoBank Bank Spółdzielczy w Inowrocławiu"
+  },
+  {
+    "id": "8151",
+    "name": "Bank Spółdzielczy w Kruszwicy"
+  },
+  {
+    "id": "8159",
+    "name": "Bank Spółdzielczy w Strzelnie"
+  },
+  {
+    "id": "8162",
+    "name": "Bank Spółdzielczy w Więcborku"
+  },
+  {
+    "id": "8164",
+    "name": "Bank Spółdzielczy w Szubinie"
+  },
+  {
+    "id": "8166",
+    "name": "Bank Spółdzielczy w Kcyni"
+  },
+  {
+    "id": "8167",
+    "name": "Bank Spółdzielczy w Barcinie"
+  },
+  {
+    "id": "8168",
+    "name": "Bank Spółdzielczy w Świeciu"
+  },
+  {
+    "id": "8169",
+    "name": "Bank Spółdzielczy w Osiu"
+  },
+  {
+    "id": "8170",
+    "name": "Bank Spółdzielczy w Pruszczu Pomorskim"
+  },
+  {
+    "id": "8173",
+    "name": "Bank Spółdzielczy w Nowem n/Wisłą"
+  },
+  {
+    "id": "8174",
+    "name": "Bank Spółdzielczy w Tucholi"
+  },
+  {
+    "id": "8179",
+    "name": "Bank Spółdzielczy w Nakle n/Notecią"
+  },
+  {
+    "id": "8181",
+    "name": "Bank Spółdzielczy \"Pałuki\" w Żninie"
+  },
+  {
+    "id": "8185",
+    "name": "Piastowski Bank Spółdzielczy w Janikowie"
+  },
+  {
+    "id": "8187",
+    "name": "Wschodni Bank Spółdzielczy w Chełmie"
+  },
+  {
+    "id": "8188",
+    "name": "Bank Spółdzielczy w Wojsławicach"
+  },
+  {
+    "id": "8191",
+    "name": "Bank Spółdzielczy w Cycowie"
+  },
+  {
+    "id": "8195",
+    "name": "Bank Spółdzielczy w Leśniowicach"
+  },
+  {
+    "id": "8200",
+    "name": "Bank Spółdzielczy w Krasnymstawie"
+  },
+  {
+    "id": "8202",
+    "name": "Bank Spółdzielczy w Białopolu"
+  },
+  {
+    "id": "8215",
+    "name": "Bank Spółdzielczy w Działdowie z siedzibą w Lidzbarku"
+  },
+  {
+    "id": "8220",
+    "name": "Bank Spółdzielczy w Grudusku"
+  },
+  {
+    "id": "8225",
+    "name": "Bank Spółdzielczy w Mławie"
+  },
+  {
+    "id": "8226",
+    "name": "Bank Spółdzielczy w Nasielsku"
+  },
+  {
+    "id": "8229",
+    "name": "Bank Spółdzielczy w Glinojecku"
+  },
+  {
+    "id": "8230",
+    "name": "Bank Spółdzielczy w Płońsku"
+  },
+  {
+    "id": "8232",
+    "name": "Bank Spółdzielczy w Pułtusku"
+  },
+  {
+    "id": "8233",
+    "name": "Bank Spółdzielczy w Raciążu"
+  },
+  {
+    "id": "8238",
+    "name": "Bank Spółdzielczy w Strzegowie"
+  },
+  {
+    "id": "8242",
+    "name": "Bank Spółdzielczy w Żurominie"
+  },
+  {
+    "id": "8248",
+    "name": "Bank Spółdzielczy w Kłobucku"
+  },
+  {
+    "id": "8250",
+    "name": "Bank Spółdzielczy w Krzepicach"
+  },
+  {
+    "id": "8258",
+    "name": "Bank Spółdzielczy w Mykanowie"
+  },
+  {
+    "id": "8260",
+    "name": "Częstochowski Bank Spółdzielczy JURA BANK"
+  },
+  {
+    "id": "8265",
+    "name": "Bank Spółdzielczy w Pajęcznie"
+  },
+  {
+    "id": "8273",
+    "name": "Bank Spółdzielczy w Konopiskach"
+  },
+  {
+    "id": "8277",
+    "name": "Bank Spółdzielczy w Szczekocinach"
+  },
+  {
+    "id": "8279",
+    "name": "Międzypowiatowy Bank Spółdzielczy w  Myszkowie"
+  },
+  {
+    "id": "8300",
+    "name": "Powiślański Bank Spółdzielczy w Kwidzynie"
+  },
+  {
+    "id": "8303",
+    "name": "Bank Spółdzielczy w Malborku"
+  },
+  {
+    "id": "8306",
+    "name": "Żuławski Bank Spółdzielczy"
+  },
+  {
+    "id": "8308",
+    "name": "Bank Spółdzielczy w Stegnie"
+  },
+  {
+    "id": "8309",
+    "name": "Bank Spółdzielczy w Sztumie"
+  },
+  {
+    "id": "8313",
+    "name": "Braniewsko - Pasłęcki Bank Spółdzielczy z siedzibą w Pasłęku"
+  },
+  {
+    "id": "8319",
+    "name": "Bank Spółdzielczy w Prabutach"
+  },
+  {
+    "id": "8320",
+    "name": "Bank Spółdzielczy w Suszu"
+  },
+  {
+    "id": "8324",
+    "name": "Bank Spółdzielczy w Sierakowicach"
+  },
+  {
+    "id": "8328",
+    "name": "Bank Spółdzielczy w Kościerzynie"
+  },
+  {
+    "id": "8335",
+    "name": "Bank Spółdzielczy w Pruszczu Gdańskim"
+  },
+  {
+    "id": "8337",
+    "name": "Bank Spółdzielczy w Pszczółkach"
+  },
+  {
+    "id": "8340",
+    "name": "Bank Spółdzielczy w Starogardzie Gdańskim"
+  },
+  {
+    "id": "8342",
+    "name": "Bank Spółdzielczy w Skórczu"
+  },
+  {
+    "id": "8345",
+    "name": "Bank Spółdzielczy w Tczewie"
+  },
+  {
+    "id": "8346",
+    "name": "Bank Spółdzielczy w Gniewie"
+  },
+  {
+    "id": "8348",
+    "name": "Bank Spółdzielczy w Pucku"
+  },
+  {
+    "id": "8349",
+    "name": "Bank Spółdzielczy w Krokowej"
+  },
+  {
+    "id": "8350",
+    "name": "Kaszubski Bank Spółdzielczy"
+  },
+  {
+    "id": "8351",
+    "name": "Bank Rumia Spółdzielczy"
+  },
+  {
+    "id": "8355",
+    "name": "Gospodarczy Bank Spółdzielczy w Barlinku"
+  },
+  {
+    "id": "8359",
+    "name": "Zachodniopomorski Bank Spółdzielczy"
+  },
+  {
+    "id": "8362",
+    "name": "Lubusko-Wielkopolski Bank Spółdzielczy"
+  },
+  {
+    "id": "8363",
+    "name": "Gospodarczy Bank Spółdzielczy w Gorzowie Wielkopolskim"
+  },
+  {
+    "id": "8367",
+    "name": "Lubuski Bank Spółdzielczy"
+  },
+  {
+    "id": "8369",
+    "name": "Bank Spółdzielczy w Ośnie Lubuskim"
+  },
+  {
+    "id": "8371",
+    "name": "Bank Spółdzielczy w Rzepinie"
+  },
+  {
+    "id": "8382",
+    "name": "Bank Spółdzielczy w Pieńsku"
+  },
+  {
+    "id": "8384",
+    "name": "Bank Spółdzielczy Lwówek Śląski w Lwówku Śląskim"
+  },
+  {
+    "id": "8392",
+    "name": "Łużycki Bank Spółdzielczy w Lubaniu"
+  },
+  {
+    "id": "8395",
+    "name": "Bank Spółdzielczy w Kamiennej Górze"
+  },
+  {
+    "id": "8404",
+    "name": "Bank Spółdzielczy Ziemi Kaliskiej"
+  },
+  {
+    "id": "8407",
+    "name": "Bank Spółdzielczy w Pleszewie"
+  },
+  {
+    "id": "8409",
+    "name": "Bank Spółdzielczy w Dobrzycy"
+  },
+  {
+    "id": "8410",
+    "name": "Bank Spółdzielczy w Krotoszynie"
+  },
+  {
+    "id": "8413",
+    "name": "Spółdzielczy Bank Ludowy w Kępnie"
+  },
+  {
+    "id": "8427",
+    "name": "Bank Spółdzielczy w Jarocinie"
+  },
+  {
+    "id": "8430",
+    "name": "Bank Spółdzielczy w Raszkowie"
+  },
+  {
+    "id": "8431",
+    "name": "Spółdzielczy Bank Ludowy w Skalmierzycach"
+  },
+  {
+    "id": "8435",
+    "name": "Bank Spółdzielczy w Tychach"
+  },
+  {
+    "id": "8436",
+    "name": "Mikołowski Bank Spółdzielczy w Mikołowie"
+  },
+  {
+    "id": "8437",
+    "name": "Śląski Bank Spółdzielczy \"Silesia\" w Katowicach"
+  },
+  {
+    "id": "8438",
+    "name": "Bank Spółdzielczy w Będzinie"
+  },
+  {
+    "id": "8444",
+    "name": "Bank Spółdzielczy w Chrzanowie"
+  },
+  {
+    "id": "8445",
+    "name": "Bank Spółdzielczy w Jaworznie"
+  },
+  {
+    "id": "8446",
+    "name": "Bank Spółdzielczy w Miedźnej"
+  },
+  {
+    "id": "8447",
+    "name": "Bank Spółdzielczy w Pawłowicach"
+  },
+  {
+    "id": "8448",
+    "name": "Bank Spółdzielczy w Pszczynie"
+  },
+  {
+    "id": "8449",
+    "name": "Bank Spółdzielczy w Olkuszu w likwidacji"
+  },
+  {
+    "id": "8450",
+    "name": "Bank Spółdzielczy w Wolbromiu"
+  },
+  {
+    "id": "8453",
+    "name": "Bank Spółdzielczy Czechowice-Dziedzice-Bestwina"
+  },
+  {
+    "id": "8454",
+    "name": "Orzesko-Knurowski Bank Spółdzielczy  z siedzibą w Knurowie"
+  },
+  {
+    "id": "8456",
+    "name": "Bank Spółdzielczy w Żorach"
+  },
+  {
+    "id": "8457",
+    "name": "Bank Spółdzielczy w Gliwicach"
+  },
+  {
+    "id": "8463",
+    "name": "Bank Spółdzielczy w Tarnowskich Górach"
+  },
+  {
+    "id": "8466",
+    "name": "Bank Spółdzielczy w Tworogu"
+  },
+  {
+    "id": "8467",
+    "name": "Bank Spółdzielczy w Świerklańcu"
+  },
+  {
+    "id": "8469",
+    "name": "Bank Spółdzielczy w Gorzycach"
+  },
+  {
+    "id": "8470",
+    "name": "Bank Spółdzielczy w Jastrzębiu-Zdroju"
+  },
+  {
+    "id": "8474",
+    "name": "Meander Bank Spółdzielczy w Krzyżanowicach"
+  },
+  {
+    "id": "8475",
+    "name": "Bank Spółdzielczy w Raciborzu"
+  },
+  {
+    "id": "8480",
+    "name": "Bank Spółdzielczy w Busku-Zdroju"
+  },
+  {
+    "id": "8483",
+    "name": "Bank Spółdzielczy w Chmielniku"
+  },
+  {
+    "id": "8485",
+    "name": "Bank Spółdzielczy Daleszyce-Górno"
+  },
+  {
+    "id": "8490",
+    "name": "Świętokrzyski Bank Spółdzielczy w Jędrzejowie"
+  },
+  {
+    "id": "8493",
+    "name": "Bank Spółdzielczy w Kielcach"
+  },
+  {
+    "id": "8494",
+    "name": "Bank Spółdzielczy w Końskich"
+  },
+  {
+    "id": "8499",
+    "name": "Bank Spółdzielczy w Łopusznie"
+  },
+  {
+    "id": "8507",
+    "name": "Bank Spółdzielczy w Ostrowcu Świętokrzyskim"
+  },
+  {
+    "id": "8509",
+    "name": "Bank Spółdzielczy w Pińczowie"
+  },
+  {
+    "id": "8512",
+    "name": "Bank Spółdzielczy w Samsonowie"
+  },
+  {
+    "id": "8517",
+    "name": "Nadwiślański Bank Spółdzielczy w Solcu-Zdroju"
+  },
+  {
+    "id": "8518",
+    "name": "Bank Spółdzielczy w Starachowicach"
+  },
+  {
+    "id": "8519",
+    "name": "Bank Spółdzielczy w Stopnicy"
+  },
+  {
+    "id": "8520",
+    "name": "Bank Spółdzielczy w Suchedniowie"
+  },
+  {
+    "id": "8521",
+    "name": "Bank Spółdzielczy w Szydłowie"
+  },
+  {
+    "id": "8523",
+    "name": "Bank Spółdzielczy w Wąchocku"
+  },
+  {
+    "id": "8525",
+    "name": "Bank Spółdzielczy we Włoszczowie"
+  },
+  {
+    "id": "8526",
+    "name": "Bank Spółdzielczy w Wodzisławiu"
+  },
+  {
+    "id": "8530",
+    "name": "Bank Spółdzielczy w Koninie"
+  },
+  {
+    "id": "8534",
+    "name": "Bank Spółdzielczy w Ślesinie"
+  },
+  {
+    "id": "8538",
+    "name": "Bank Spółdzielczy w Witkowie"
+  },
+  {
+    "id": "8542",
+    "name": "Bank Spółdzielczy w Słupcy"
+  },
+  {
+    "id": "8543",
+    "name": "Ludowy Bank Spółdzielczy w Strzałkowie"
+  },
+  {
+    "id": "8545",
+    "name": "Bank Spółdzielczy w Kłodawie"
+  },
+  {
+    "id": "8557",
+    "name": "Rejonowy Bank Spółdzielczy w Malanowie"
+  },
+  {
+    "id": "8558",
+    "name": "Bank Spółdzielczy w Wierzbinku"
+  },
+  {
+    "id": "8562",
+    "name": "Bank Spółdzielczy w Białogardzie"
+  },
+  {
+    "id": "8566",
+    "name": "Bałtycki Bank Spółdzielczy"
+  },
+  {
+    "id": "8570",
+    "name": "Bank Spółdzielczy w Kaliszu Pomorskim"
+  },
+  {
+    "id": "8577",
+    "name": "Bank Spółdzielczy w Połczynie Zdroju"
+  },
+  {
+    "id": "8581",
+    "name": "Pomorski Bank Spółdzielczy w Świdwinie"
+  },
+  {
+    "id": "8589",
+    "name": "Bank Spółdzielczy Rzemiosła w Krakowie"
+  },
+  {
+    "id": "8591",
+    "name": "Krakowski Bank Spółdzielczy"
+  },
+  {
+    "id": "8597",
+    "name": "Bank Spółdzielczy w Proszowicach"
+  },
+  {
+    "id": "8600",
+    "name": "Bank Spółdzielczy w Skawinie"
+  },
+  {
+    "id": "8602",
+    "name": "Bank Spółdzielczy w Dobczycach"
+  },
+  {
+    "id": "8612",
+    "name": "Bank Spółdzielczy w Krzeszowicach"
+  },
+  {
+    "id": "8614",
+    "name": "Bank Spółdzielczy w Słomnikach"
+  },
+  {
+    "id": "8619",
+    "name": "Małopolski Bank Spółdzielczy"
+  },
+  {
+    "id": "8621",
+    "name": "Bieszczadzki Bank Spółdzielczy w Ustrzykach Dolnych"
+  },
+  {
+    "id": "8626",
+    "name": "Bank Spółdzielczy w Kołaczycach"
+  },
+  {
+    "id": "8627",
+    "name": "Bank Spółdzielczy w Bieczu"
+  },
+  {
+    "id": "8628",
+    "name": "Bank Spółdzielczy w Lipinkach"
+  },
+  {
+    "id": "8636",
+    "name": "Bank Spółdzielczy w Rymanowie"
+  },
+  {
+    "id": "8644",
+    "name": "Bank Spółdzielczy w Chojnowie"
+  },
+  {
+    "id": "8646",
+    "name": "Bank Spółdzielczy w Głogowie"
+  },
+  {
+    "id": "8647",
+    "name": "Bank Spółdzielczy w Jaworze"
+  },
+  {
+    "id": "8649",
+    "name": "Bank Spółdzielczy w Legnicy"
+  },
+  {
+    "id": "8658",
+    "name": "Powiatowy Bank Spółdzielczy w Złotoryi"
+  },
+  {
+    "id": "8661",
+    "name": "Bank Spółdzielczy we Włoszakowicach"
+  },
+  {
+    "id": "8666",
+    "name": "Bank Spółdzielczy w Kościanie"
+  },
+  {
+    "id": "8667",
+    "name": "Bank Spółdzielczy w Śmiglu"
+  },
+  {
+    "id": "8669",
+    "name": "Bank Spółdzielczy we Wschowie"
+  },
+  {
+    "id": "8674",
+    "name": "Bank Spółdzielczy w Jutrosinie"
+  },
+  {
+    "id": "8678",
+    "name": "Powiatowy Bank Spółdzielczy w Gostyniu"
+  },
+  {
+    "id": "8682",
+    "name": "Bank Spółdzielczy w Poniecu"
+  },
+  {
+    "id": "8685",
+    "name": "Rejonowy Bank Spółdzielczy w Bychawie"
+  },
+  {
+    "id": "8687",
+    "name": "Bank Spółdzielczy w Niedrzwicy Dużej"
+  },
+  {
+    "id": "8689",
+    "name": "Spółdzielczy Bank Powiatowy w Piaskach"
+  },
+  {
+    "id": "8693",
+    "name": "Bank Spółdzielczy w Łęcznej"
+  },
+  {
+    "id": "8702",
+    "name": "Bank Spółdzielczy w Niemcach"
+  },
+  {
+    "id": "8707",
+    "name": "Bank Spółdzielczy w Lubartowie"
+  },
+  {
+    "id": "8717",
+    "name": "Bank Spółdzielczy Ziemi Kraśnickiej  w Kraśniku"
+  },
+  {
+    "id": "8724",
+    "name": "Bank Spółdzielczy w Rykach"
+  },
+  {
+    "id": "8729",
+    "name": "BS Józefów nad Wisłą"
+  },
+  {
+    "id": "8731",
+    "name": "Bank Spółdzielczy w Kazimierzu Dolnym"
+  },
+  {
+    "id": "8733",
+    "name": "Bank Spółdzielczy w Nałęczowie"
+  },
+  {
+    "id": "8734",
+    "name": "Powiatowy Bank Spółdzielczy w Opolu  Lubelskim"
+  },
+  {
+    "id": "8735",
+    "name": "Bank Spółdzielczy w Poniatowej"
+  },
+  {
+    "id": "8741",
+    "name": "Lubelski Bank Spółdzielczy"
+  },
+  {
+    "id": "8747",
+    "name": "Bank Spółdzielczy w Czyżewie"
+  },
+  {
+    "id": "8749",
+    "name": "Bank Spółdzielczy w Ciechanowcu"
+  },
+  {
+    "id": "8752",
+    "name": "Bank Spółdzielczy w Jedwabnem"
+  },
+  {
+    "id": "8754",
+    "name": "Bank Spółdzielczy w Kolnie"
+  },
+  {
+    "id": "8757",
+    "name": "Bank Spółdzielczy w Łomży"
+  },
+  {
+    "id": "8762",
+    "name": "Hexa Bank"
+  },
+  {
+    "id": "8766",
+    "name": "Bank Spółdzielczy w Sokołach"
+  },
+  {
+    "id": "8768",
+    "name": "Bank Spółdzielczy w Szczuczynie"
+  },
+  {
+    "id": "8769",
+    "name": "Spółdzielczy Bank Rozwoju"
+  },
+  {
+    "id": "8770",
+    "name": "Bank Spółdzielczy w Szumowie"
+  },
+  {
+    "id": "8774",
+    "name": "Bank Spółdzielczy w Wysokiem Mazowieckiem"
+  },
+  {
+    "id": "8775",
+    "name": "Bank Spółdzielczy w Zambrowie"
+  },
+  {
+    "id": "8780",
+    "name": "AURET BANK Spółdzielczy"
+  },
+  {
+    "id": "8781",
+    "name": "Bank Spółdzielczy w Andrespolu"
+  },
+  {
+    "id": "8783",
+    "name": "Bank Spółdzielczy w Zgierzu"
+  },
+  {
+    "id": "8784",
+    "name": "Łódzki Bank Spółdzielczy"
+  },
+  {
+    "id": "8786",
+    "name": "Bank Spółdzielczy w Ozorkowie"
+  },
+  {
+    "id": "8787",
+    "name": "Bank Spółdzielczy w Głownie"
+  },
+  {
+    "id": "8791",
+    "name": "BS Karpatia, BSZG KARPATIA, Karpatia Bank Spółdzielczy"
+  },
+  {
+    "id": "8792",
+    "name": "Bank Spółdzielczy w Czarnym Dunajcu"
+  },
+  {
+    "id": "8795",
+    "name": "Bank Spółdzielczy w Gorlicach"
+  },
+  {
+    "id": "8797",
+    "name": "Bank Spółdzielczy w Grybowie"
+  },
+  {
+    "id": "8798",
+    "name": "Bank Spółdzielczy w Jabłonce"
+  },
+  {
+    "id": "8799",
+    "name": "Bank Spółdzielczy w Jordanowie"
+  },
+  {
+    "id": "8804",
+    "name": "Bank Spółdzielczy w Limanowej"
+  },
+  {
+    "id": "8805",
+    "name": "Łącki Bank Spółdzielczy"
+  },
+  {
+    "id": "8808",
+    "name": "Bank Spółdzielczy w Mszanie Dolnej"
+  },
+  {
+    "id": "8811",
+    "name": "Bank Spółdzielczy w Nowym Sączu"
+  },
+  {
+    "id": "8812",
+    "name": "Bank Spółdzielczy w Nowym Targu"
+  },
+  {
+    "id": "8813",
+    "name": "Bank Spółdzielczy w Piwnicznej - Zdroju"
+  },
+  {
+    "id": "8814",
+    "name": "Bank Spółdzielczy w Podegrodziu"
+  },
+  {
+    "id": "8815",
+    "name": "Bank Spółdzielczy w Rabie Wyżnej"
+  },
+  {
+    "id": "8816",
+    "name": "Bank Spółdzielczy w Starym Sączu"
+  },
+  {
+    "id": "8817",
+    "name": "Pieniński Bank Spółdzielczy"
+  },
+  {
+    "id": "8818",
+    "name": "Bank Spółdzielczy w Łososinie Dolnej"
+  },
+  {
+    "id": "8821",
+    "name": "Podhalański Bank Spółdzielczy w Zakopanem"
+  },
+  {
+    "id": "8823",
+    "name": "Bank Spółdzielczy w Olsztynku"
+  },
+  {
+    "id": "8831",
+    "name": "Bank Spółdzielczy w Iławie"
+  },
+  {
+    "id": "8832",
+    "name": "Bank Spółdzielczy w Lubawie"
+  },
+  {
+    "id": "8834",
+    "name": "Bank Spółdzielczy w Nidzicy"
+  },
+  {
+    "id": "8838",
+    "name": "Bank Spółdzielczy w Szczytnie"
+  },
+  {
+    "id": "8843",
+    "name": "Morąsko-Zalewski Bank Spółdzielczy"
+  },
+  {
+    "id": "8848",
+    "name": "Bank Spółdzielczy w Mrągowie"
+  },
+  {
+    "id": "8851",
+    "name": "Bank Spółdzielczy w Reszlu"
+  },
+  {
+    "id": "8855",
+    "name": "Bank Spółdzielczy w Bartoszycach"
+  },
+  {
+    "id": "8857",
+    "name": "Warmiński Bank Spółdzielczy"
+  },
+  {
+    "id": "8863",
+    "name": "Bank Spółdzielczy w Brzegu"
+  },
+  {
+    "id": "8866",
+    "name": "Bank Spółdzielczy w Baborowie"
+  },
+  {
+    "id": "8868",
+    "name": "Bank Spółdzielczy w Głubczycach"
+  },
+  {
+    "id": "8870",
+    "name": "Bank Spółdzielczy Grodków-Łosiów z siedzibą w Grodkowie"
+  },
+  {
+    "id": "8872",
+    "name": "Bank Spółdzielczy w Otmuchowie"
+  },
+  {
+    "id": "8876",
+    "name": "Bank Spółdzielczy w Wołczynie"
+  },
+  {
+    "id": "8882",
+    "name": "Powiatowy Bank Spółdzielczy w Kędzierzynie-Koźlu"
+  },
+  {
+    "id": "8883",
+    "name": "Bank Spółdzielczy w Gogolinie"
+  },
+  {
+    "id": "8884",
+    "name": "Bank Spółdzielczy w Krapkowicach"
+  },
+  {
+    "id": "8890",
+    "name": "Bank Spółdzielczy w Namysłowie"
+  },
+  {
+    "id": "8895",
+    "name": "Bank Spółdzielczy w Dobrzeniu Wielkim"
+  },
+  {
+    "id": "8897",
+    "name": "Bank Spółdzielczy w Łubnianach"
+  },
+  {
+    "id": "8898",
+    "name": "Bank Spółdzielczy \"Bank Rolników\" w Opolu"
+  },
+  {
+    "id": "8903",
+    "name": "Bank Spółdzielczy w Białej"
+  },
+  {
+    "id": "8904",
+    "name": "Bank Spółdzielczy w Głogówku"
+  },
+  {
+    "id": "8905",
+    "name": "Bank Spółdzielczy w Prudniku"
+  },
+  {
+    "id": "8907",
+    "name": "Bank Spółdzielczy w Leśnicy"
+  },
+  {
+    "id": "8909",
+    "name": "Bank Spółdzielczy w Zawadzkiem"
+  },
+  {
+    "id": "8913",
+    "name": "Limes Bank Spółdzielczy"
+  },
+  {
+    "id": "8915",
+    "name": "Bank Spółdzielczy w Goworowie"
+  },
+  {
+    "id": "8916",
+    "name": "Bank Spółdzielczy w Kadzidle"
+  },
+  {
+    "id": "8917",
+    "name": "Bank Spółdzielczy w Krasnosielcu z siedzibą w Makowie Mazowieckim"
+  },
+  {
+    "id": "8920",
+    "name": "KBS w Myszyńcu"
+  },
+  {
+    "id": "8923",
+    "name": "Bank Spółdzielczy w Ostrowi Mazowieckiej"
+  },
+  {
+    "id": "8924",
+    "name": "Bank Spółdzielczy w Przasnyszu"
+  },
+  {
+    "id": "8925",
+    "name": "Bank Spółdzielczy w Różanie"
+  },
+  {
+    "id": "8930",
+    "name": "Bank Spółdzielczy w Wąsewie"
+  },
+  {
+    "id": "8931",
+    "name": "Polski Bank Spółdzielczy w Wyszkowie"
+  },
+  {
+    "id": "8935",
+    "name": "Bank Spółdzielczy w Jastrowiu"
+  },
+  {
+    "id": "8937",
+    "name": "Nadnotecki Bank Spółdzielczy"
+  },
+  {
+    "id": "8938",
+    "name": "Bank Spółdzielczy w Łobżenicy"
+  },
+  {
+    "id": "8940",
+    "name": "Bank Spółdzielczy w Wysokiej"
+  },
+  {
+    "id": "8941",
+    "name": "Spółdzielczy Bank Ludowy w Złotowie"
+  },
+  {
+    "id": "8943",
+    "name": "Bank Spółdzielczy w Lipce"
+  },
+  {
+    "id": "8944",
+    "name": "Spółdzielczy Bank Ludowy w Zakrzewie"
+  },
+  {
+    "id": "8945",
+    "name": "Bank Spółdzielczy w Chodzieży"
+  },
+  {
+    "id": "8951",
+    "name": "Bank Spółdzielczy w Czarnkowie"
+  },
+  {
+    "id": "8959",
+    "name": "Pałucki Bank Spółdzielczy w Wągrowcu"
+  },
+  {
+    "id": "8960",
+    "name": "Bank Spółdzielczy w Wieleniu"
+  },
+  {
+    "id": "8961",
+    "name": "Bank Spółdzielczy we Wronkach"
+  },
+  {
+    "id": "8973",
+    "name": "naturoBank Bank Spółdzielczy"
+  },
+  {
+    "id": "8980",
+    "name": "ESBANK Bank Spółdzielczy"
+  },
+  {
+    "id": "8985",
+    "name": "Powiatowy Bank Spółdzielczy w Tomaszowie Mazowieckim"
+  },
+  {
+    "id": "8988",
+    "name": "Bank Spółdzielczy w Przedborzu"
+  },
+  {
+    "id": "8992",
+    "name": "Bank Spółdzielczy w Opocznie"
+  },
+  {
+    "id": "9006",
+    "name": "Bank Spółdzielczy w Małej Wsi"
+  },
+  {
+    "id": "9008",
+    "name": "Bank Spółdzielczy w Staroźrebach"
+  },
+  {
+    "id": "9010",
+    "name": "Bank Spółdzielczy w Iłowie"
+  },
+  {
+    "id": "9011",
+    "name": "Vistula Bank Spółdzielczy"
+  },
+  {
+    "id": "9012",
+    "name": "Bank Spółdzielczy w Gostyninie"
+  },
+  {
+    "id": "9013",
+    "name": "Bank Spółdzielczy w Gąbinie"
+  },
+  {
+    "id": "9021",
+    "name": "Bank Spółdzielczy \"Wspólna Praca\" w Kutnie"
+  },
+  {
+    "id": "9038",
+    "name": "Bank Spółdzielczy w Starej Białej"
+  },
+  {
+    "id": "9042",
+    "name": "Bank Spółdzielczy \"MAZOWSZE\" w Płocku"
+  },
+  {
+    "id": "9043",
+    "name": "POZNAŃSKI BANK SPÓŁDZIELCZY"
+  },
+  {
+    "id": "9044",
+    "name": "Pobiedzisko - Gośliński Bank Spółdzielczy w Pobiedziskach"
+  },
+  {
+    "id": "9048",
+    "name": "Gospodarczy Bank Spółdzielczy w Mosinie"
+  },
+  {
+    "id": "9055",
+    "name": "Ludowy Bank Spółdzielczy w Obornikach"
+  },
+  {
+    "id": "9058",
+    "name": "Bank Spółdzielczy w Nowym Tomyślu"
+  },
+  {
+    "id": "9063",
+    "name": "Bank Spółdzielczy w Grodzisku Wielkopolskim"
+  },
+  {
+    "id": "9065",
+    "name": "Bank Spółdzielczy w Gnieźnie"
+  },
+  {
+    "id": "9072",
+    "name": "Bank Spółdzielczy Duszniki"
+  },
+  {
+    "id": "9075",
+    "name": "Bank Spółdzielczy w Kostrzynie"
+  },
+  {
+    "id": "9076",
+    "name": "Bank Spółdzielczy w Kórniku"
+  },
+  {
+    "id": "9081",
+    "name": "Nadobrzański Bank Spółdzielczy w Rakoniewicach"
+  },
+  {
+    "id": "9082",
+    "name": "Bank Spółdzielczy Pojezierza Międzychodzko - Sierakowskiego w Sierakowie"
+  },
+  {
+    "id": "9084",
+    "name": "Spółdzielczy Bank Ludowy im.Ks.P.Wawrzyniaka"
+  },
+  {
+    "id": "9085",
+    "name": "Bank Spółdzielczy w Środzie Wielkopolskiej"
+  },
+  {
+    "id": "9091",
+    "name": "Bank Spółdzielczy w Chłopicach"
+  },
+  {
+    "id": "9093",
+    "name": "Bank Spółdzielczy w Dynowie"
+  },
+  {
+    "id": "9096",
+    "name": "Bank Spółdzielczy w Jarosławiu"
+  },
+  {
+    "id": "9101",
+    "name": "Bank Spółdzielczy w Lubaczowie"
+  },
+  {
+    "id": "9103",
+    "name": "Bank Spółdzielczy w Narolu"
+  },
+  {
+    "id": "9106",
+    "name": "Bank Spółdzielczy w Przeworsku"
+  },
+  {
+    "id": "9107",
+    "name": "Bank Spółdzielczy w Radymnie"
+  },
+  {
+    "id": "9113",
+    "name": "Bank Spółdzielczy w Żurawicy"
+  },
+  {
+    "id": "9115",
+    "name": "Bank Spółdzielczy Rzemiosła w Radomiu"
+  },
+  {
+    "id": "9116",
+    "name": "Bank Spółdzielczy im.Stefczyka w Belsku Dużym"
+  },
+  {
+    "id": "9117",
+    "name": "Bank Spółdzielczy w Białobrzegach"
+  },
+  {
+    "id": "9121",
+    "name": "Bank Spółdzielczy w Chynowie"
+  },
+  {
+    "id": "9128",
+    "name": "Bank Spółdzielczy w Grójcu"
+  },
+  {
+    "id": "9129",
+    "name": "Bank Spółdzielczy w Iłży"
+  },
+  {
+    "id": "9130",
+    "name": "Bank Spółdzielczy w Jasieńcu"
+  },
+  {
+    "id": "9132",
+    "name": "Południowo-Mazowiecki Bank Spółdzielczy w Jedlińsku"
+  },
+  {
+    "id": "9135",
+    "name": "Bank Spółdzielczy w Lipsku"
+  },
+  {
+    "id": "9141",
+    "name": "Bank Spółdzielczy w Pionkach"
+  },
+  {
+    "id": "9145",
+    "name": "Bank Spółdzielczy w Przysusze"
+  },
+  {
+    "id": "9147",
+    "name": "Bank Spółdzielczy w Radomiu"
+  },
+  {
+    "id": "9150",
+    "name": "Bank Spółdzielczy w Skaryszewie"
+  },
+  {
+    "id": "9154",
+    "name": "Bank Spółdzielczy w Warce"
+  },
+  {
+    "id": "9157",
+    "name": "Bank Spółdzielczy w Zwoleniu"
+  },
+  {
+    "id": "9158",
+    "name": "Bank Spółdzielczy w Błażowej"
+  },
+  {
+    "id": "9159",
+    "name": "Bank Spółdzielczy w Głogowie Małopolskim"
+  },
+  {
+    "id": "9161",
+    "name": "Bank Spółdzielczy w Lubeni"
+  },
+  {
+    "id": "9162",
+    "name": "Bank Spółdzielczy w Rzeszowie"
+  },
+  {
+    "id": "9163",
+    "name": "Bank Spółdzielczy w Niechobrzu"
+  },
+  {
+    "id": "9164",
+    "name": "Bank Spółdzielczy w Tyczynie"
+  },
+  {
+    "id": "9168",
+    "name": "Bank Spółdzielczy w Strzyżowie"
+  },
+  {
+    "id": "9171",
+    "name": "Bank Spółdzielczy w Ropczycach"
+  },
+  {
+    "id": "9172",
+    "name": "Bank Spółdzielczy w Sędziszowie Młp."
+  },
+  {
+    "id": "9173",
+    "name": "Bank Spółdzielczy w Wielopolu Skrzyńskim"
+  },
+  {
+    "id": "9175",
+    "name": "Bank Spółdzielczy w Żołyni"
+  },
+  {
+    "id": "9176",
+    "name": "EXPRESS BANK SPÓŁDZIELCZY"
+  },
+  {
+    "id": "9177",
+    "name": "Bank Spółdzielczy w Łańcucie"
+  },
+  {
+    "id": "9180",
+    "name": "Bank Spółdzielczy w Kolbuszowej"
+  },
+  {
+    "id": "9182",
+    "name": "Bank Spółdzielczy w Sokołowie Małopolskim"
+  },
+  {
+    "id": "9183",
+    "name": "Bank Spółdzielczy w Mielcu"
+  },
+  {
+    "id": "9184",
+    "name": "Bank Spółdzielczy w Przecławiu"
+  },
+  {
+    "id": "9187",
+    "name": "Bank Spółdzielczy w Leżajsku"
+  },
+  {
+    "id": "9191",
+    "name": "Bank Spółdzielczy w Jasionce"
+  },
+  {
+    "id": "9193",
+    "name": "Bank Spółdzielczy w Mokobodach"
+  },
+  {
+    "id": "9194",
+    "name": "Bank Spółdzielczy w Siedlcach"
+  },
+  {
+    "id": "9198",
+    "name": "Międzygminny Bank Spółdzielczy w Zbuczynie"
+  },
+  {
+    "id": "9202",
+    "name": "Bank Spółdzielczy w Adamowie"
+  },
+  {
+    "id": "9203",
+    "name": "Bank Spółdzielczy w Krzywdzie"
+  },
+  {
+    "id": "9204",
+    "name": "Bank Spółdzielczy w Łukowie"
+  },
+  {
+    "id": "9206",
+    "name": "Bank Spółdzielczy w Trzebieszowie"
+  },
+  {
+    "id": "9210",
+    "name": "Bank Spółdzielczy w Garwolinie"
+  },
+  {
+    "id": "9217",
+    "name": "Bank Spółdzielczy w Łaskarzewie"
+  },
+  {
+    "id": "9221",
+    "name": "Powiatowy Bank Spółdzielczy w Sokołowie Podlaskim"
+  },
+  {
+    "id": "9224",
+    "name": "Bank Spółdzielczy w Kałuszynie"
+  },
+  {
+    "id": "9226",
+    "name": "Bank Spółdzielczy w Mińsku Mazowieckim"
+  },
+  {
+    "id": "9233",
+    "name": "Bank Spółdzielczy w Łochowie"
+  },
+  {
+    "id": "9236",
+    "name": "Powiatowy Bank Spółdzielczy w Węgrowie"
+  },
+  {
+    "id": "9244",
+    "name": "Bank Spółdzielczy Ziemi Wieluńskiej"
+  },
+  {
+    "id": "9245",
+    "name": "Bank Spółdzielczy w Błaszkach"
+  },
+  {
+    "id": "9251",
+    "name": "Nadwarciański Bank Spółdzielczy w Działoszynie"
+  },
+  {
+    "id": "9256",
+    "name": "Rejonowy Bank Spółdzielczy w Lututowie"
+  },
+  {
+    "id": "9263",
+    "name": "Bank Spółdzielczy w Poddębicach"
+  },
+  {
+    "id": "9264",
+    "name": "Bank Spółdzielczy w Ruścu"
+  },
+  {
+    "id": "9267",
+    "name": "Bank Spółdzielczy w Sieradzu"
+  },
+  {
+    "id": "9269",
+    "name": "Bank Spółdzielczy w Szadku"
+  },
+  {
+    "id": "9270",
+    "name": "Bank Spółdzielczy w Warcie"
+  },
+  {
+    "id": "9271",
+    "name": "Bank Spółdzielczy w Wartkowicach"
+  },
+  {
+    "id": "9279",
+    "name": "Ludowy Bank Spółdzielczy w Zduńskiej Woli"
+  },
+  {
+    "id": "9283",
+    "name": "Bank Spółdzielczy w Sochaczewie"
+  },
+  {
+    "id": "9288",
+    "name": "Bank Spółdzielczy Ziemi Łowickiej w Łowiczu"
+  },
+  {
+    "id": "9291",
+    "name": "Bank Spółdzielczy w Białej Rawskiej"
+  },
+  {
+    "id": "9297",
+    "name": "Bank Spółdzielczy w Skierniewicach"
+  },
+  {
+    "id": "9302",
+    "name": "Bank Spółdzielczy w Mszczonowie"
+  },
+  {
+    "id": "9315",
+    "name": "Bank Spółdzielczy w Ustce"
+  },
+  {
+    "id": "9317",
+    "name": "Bank Spółdzielczy w Sławnie"
+  },
+  {
+    "id": "9321",
+    "name": "Bank Spółdzielczy w Bytowie"
+  },
+  {
+    "id": "9326",
+    "name": "Bank Spółdzielczy w Człuchowie"
+  },
+  {
+    "id": "9331",
+    "name": "Bank Spółdzielczy w Ełku"
+  },
+  {
+    "id": "9334",
+    "name": "Bank Spółdzielczy w Bargłowie Kościelnym"
+  },
+  {
+    "id": "9339",
+    "name": "Bank Spółdzielczy w Olecku"
+  },
+  {
+    "id": "9343",
+    "name": "Mazurski Bank Spółdzielczy w Giżycku"
+  },
+  {
+    "id": "9348",
+    "name": "Bank Spółdzielczy w Węgorzewie"
+  },
+  {
+    "id": "9351",
+    "name": "Bank Spółdzielczy w Augustowie"
+  },
+  {
+    "id": "9354",
+    "name": "Bank Spółdzielczy w Sejnach"
+  },
+  {
+    "id": "9359",
+    "name": "Bank Spółdzielczy w Suwałkach"
+  },
+  {
+    "id": "9364",
+    "name": "WMBS"
+  },
+  {
+    "id": "9367",
+    "name": "Bank Spółdzielczy w Rutce-Tartak"
+  },
+  {
+    "id": "9370",
+    "name": "Bank Spółdzielczy w Chojnie"
+  },
+  {
+    "id": "9375",
+    "name": "Bank Spółdzielczy w Goleniowie"
+  },
+  {
+    "id": "9376",
+    "name": "Bank Spółdzielczy w Gryficach"
+  },
+  {
+    "id": "9387",
+    "name": "Bank Spółdzielczy Ziemi Szczecińskiej"
+  },
+  {
+    "id": "9393",
+    "name": "Bank Spółdzielczy w Wolinie"
+  },
+  {
+    "id": "9407",
+    "name": "Bank Spółdzielczy w Grębowie"
+  },
+  {
+    "id": "9410",
+    "name": "Bank Spółdzielczy w Janowie Lubelskim"
+  },
+  {
+    "id": "9423",
+    "name": "Bank Spółdzielczy w Ożarowie"
+  },
+  {
+    "id": "9425",
+    "name": "Bank Spółdzielczy w Połańcu"
+  },
+  {
+    "id": "9429",
+    "name": "Bank Spółdzielczy w Sandomierzu"
+  },
+  {
+    "id": "9430",
+    "name": "Nadsański Bank Spółdzielczy"
+  },
+  {
+    "id": "9431",
+    "name": "Bank Spółdzielczy w Staszowie"
+  },
+  {
+    "id": "9434",
+    "name": "Bank Spółdzielczy w Tarnobrzegu"
+  },
+  {
+    "id": "9439",
+    "name": "Bank Spółdzielczy w Zaleszanach"
+  },
+  {
+    "id": "9453",
+    "name": "Bank Spółdzielczy w Brzesku"
+  },
+  {
+    "id": "9462",
+    "name": "Bank Spółdzielczy w Dąbrowie Tarnowskiej"
+  },
+  {
+    "id": "9464",
+    "name": "Bank Spółdzielczy w Szczucinie"
+  },
+  {
+    "id": "9477",
+    "name": "Bank Spółdzielczy w Pilźnie"
+  },
+  {
+    "id": "9478",
+    "name": "Bank Spółdzielczy w Żyrakowie"
+  },
+  {
+    "id": "9479",
+    "name": "Bank Spółdzielczy w Radomyślu Wielkim"
+  },
+  {
+    "id": "9484",
+    "name": "Bank Spółdzielczy w Brodnicy"
+  },
+  {
+    "id": "9489",
+    "name": "Bank Spółdzielczy w Golubiu - Dobrzyniu"
+  },
+  {
+    "id": "9491",
+    "name": "Bank Spółdzielczy w Grębocinie"
+  },
+  {
+    "id": "9496",
+    "name": "Bank Spółdzielczy w Kowalewie Pomorskim"
+  },
+  {
+    "id": "9500",
+    "name": "Bank Spółdzielczy w Łasinie"
+  },
+  {
+    "id": "9511",
+    "name": "Nicolaus Bank Spółdzielczy w Toruniu"
+  },
+  {
+    "id": "9523",
+    "name": "Bank Spółdzielczy w Kłodzku"
+  },
+  {
+    "id": "9527",
+    "name": "Bank Spółdzielczy w Dzierżoniowie"
+  },
+  {
+    "id": "9531",
+    "name": "Bank Spółdzielczy w Świdnicy"
+  },
+  {
+    "id": "9533",
+    "name": "Bank Spółdzielczy w Ząbkowicach Śląskich"
+  },
+  {
+    "id": "9536",
+    "name": "Gospodarczy Bank Spółdzielczy Radków z/s w Nowej Rudzie"
+  },
+  {
+    "id": "9537",
+    "name": "Kujawski Bank Spółdzielczy w Aleksandrowie Kujawskim"
+  },
+  {
+    "id": "9542",
+    "name": "Bank Spółdzielczy w Lipnie"
+  },
+  {
+    "id": "9546",
+    "name": "Bank Spółdzielczy w Skępem"
+  },
+  {
+    "id": "9549",
+    "name": "Bank Spółdzielczy w Radziejowie"
+  },
+  {
+    "id": "9550",
+    "name": "Kujawsko-Dobrzyński Bank Spółdzielczy"
+  },
+  {
+    "id": "9551",
+    "name": "Bank Spółdzielczy w Piotrkowie Kujawskim"
+  },
+  {
+    "id": "9557",
+    "name": "Bank Spółdzielczy w Kowalu"
+  },
+  {
+    "id": "9559",
+    "name": "Bank Spółdzielczy w Lubrańcu"
+  },
+  {
+    "id": "9574",
+    "name": "Bank Spółdzielczy w Kątach Wrocławskich"
+  },
+  {
+    "id": "9575",
+    "name": "Bank Spółdzielczy w Kobierzycach"
+  },
+  {
+    "id": "9582",
+    "name": "Bank Spółdzielczy w Miliczu"
+  },
+  {
+    "id": "9583",
+    "name": "Bank Spółdzielczy w Obornikach Śląskich"
+  },
+  {
+    "id": "9584",
+    "name": "Bank Spółdzielczy w Oleśnicy"
+  },
+  {
+    "id": "9585",
+    "name": "Bank Spółdzielczy w Oławie"
+  },
+  {
+    "id": "9588",
+    "name": "Gospodarczy Bank Spółdzielczy w Strzelinie"
+  },
+  {
+    "id": "9589",
+    "name": "Bank Spółdzielczy w Środzie Śląskiej"
+  },
+  {
+    "id": "9591",
+    "name": "Bank Spółdzielczy w Trzebnicy"
+  },
+  {
+    "id": "9598",
+    "name": "Bank Spółdzielczy w Żmigrodzie"
+  },
+  {
+    "id": "9602",
+    "name": "Bank Spółdzielczy w Biłgoraju"
+  },
+  {
+    "id": "9604",
+    "name": "Bank Spółdzielczy we Frampolu"
+  },
+  {
+    "id": "9610",
+    "name": "Bank Spółdzielczy w Izbicy"
+  },
+  {
+    "id": "9617",
+    "name": "Bank Spółdzielczy w Lubyczy Królewskiej"
+  },
+  {
+    "id": "9619",
+    "name": "Bank Spółdzielczy w Łukowej"
+  },
+  {
+    "id": "9623",
+    "name": "Bank Spółdzielczy w Obszy"
+  },
+  {
+    "id": "9632",
+    "name": "Bank Spółdzielczy w Szczebrzeszynie"
+  },
+  {
+    "id": "9637",
+    "name": "Bank Spółdzielczy w Tarnogrodzie"
+  },
+  {
+    "id": "9639",
+    "name": "Bank Spółdzielczy w Tomaszowie Lubelskim"
+  },
+  {
+    "id": "9642",
+    "name": "Bank Spółdzielczy w Werbkowicach"
+  },
+  {
+    "id": "9644",
+    "name": "Powiatowy Bank Spółdzielczy w Zamościu"
+  },
+  {
+    "id": "9649",
+    "name": "Bank Spółdzielczy w Biszczy"
+  },
+  {
+    "id": "9656",
+    "name": "Bank Spółdzielczy w Krośnie Odrzańskim"
+  },
+  {
+    "id": "9657",
+    "name": "Bank Spółdzielczy w Żaganiu"
+  },
+  {
+    "id": "9658",
+    "name": "Bank Spółdzielczy w Iłowej"
+  },
+  {
+    "id": "9660",
+    "name": "Bank Spółdzielczy w Siedlcu"
+  },
+  {
+    "id": "9673",
+    "name": "Bank Spółdzielczy w Kożuchowie"
+  },
+  {
+    "id": "9674",
+    "name": "Bank Spółdzielczy w Nowej Soli"
+  },
+  {
+    "id": "9681",
+    "name": "Powiatowy Bank Spółdzielczy we Wrześni"
+  }
+]
