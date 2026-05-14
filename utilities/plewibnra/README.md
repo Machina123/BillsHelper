@@ -34,4 +34,4 @@ Identifier length indicates the entity type (per NBP DIT spec):
 
 ## Source
 
-Data published by NBP DIT. File format spec: [Struktura pliku plewibnra (PDF)](https://ewib.nbp.pl/plewibnra?dokNazwa=plewibnraDokumentacja.pdf).
+Data published by NBP DIT. File format spec: [Struktura pliku plewibnra (PDF)](https://ewib.nbp.pl/pobierzZalacznikFaq/46c6692e-a091-48dd-8e7b-54018f81d1ac).
