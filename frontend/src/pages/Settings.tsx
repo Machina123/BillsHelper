@@ -4,6 +4,7 @@ import { useTranslation } from "react-i18next";
 import { api } from "../api";
 import { validateNrb, formatNrb } from "../utils";
 import { useBankRegistry } from "../hooks/useBankRegistry";
+import { version } from "../../package.json";
 
 export default function Settings() {
   const { t } = useTranslation();
@@ -92,6 +93,41 @@ export default function Settings() {
         {mutation.isError && (
           <p className="text-xs text-red-500 dark:text-red-400 mt-2">{t("settings.saveFailed")}</p>
         )}
+      </div>
+
+      <div className="mt-8 bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6">
+        <h2 className="text-sm font-semibold text-gray-700 dark:text-gray-200 mb-4">{t("settings.about.title")}</h2>
+        <dl className="space-y-2 text-sm">
+          <div className="flex gap-2">
+            <dt className="text-gray-500 dark:text-gray-400 w-28 shrink-0">{t("settings.about.version")}</dt>
+            <dd className="text-gray-800 dark:text-gray-100 font-mono">{version}</dd>
+          </div>
+          <div className="flex gap-2">
+            <dt className="text-gray-500 dark:text-gray-400 w-28 shrink-0">{t("settings.about.author")}</dt>
+            <dd className="text-gray-800 dark:text-gray-100">Patryk Ciepiela</dd>
+          </div>
+          <div className="flex gap-2">
+            <dt className="text-gray-500 dark:text-gray-400 w-28 shrink-0">{t("settings.about.license")}</dt>
+            <dd className="text-gray-800 dark:text-gray-100">MIT</dd>
+          </div>
+          <div className="flex gap-2">
+            <dt className="text-gray-500 dark:text-gray-400 w-28 shrink-0">{t("settings.about.source")}</dt>
+            <dd>
+              <a
+                href="https://github.com/Machina123/BillsHelper"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 dark:text-blue-400 hover:underline flex items-center gap-1"
+              >
+                <i className="lni lni-github-original text-base leading-none" />
+                {t("settings.about.sourceLink")}
+              </a>
+            </dd>
+          </div>
+        </dl>
+        <p className="mt-4 text-xs text-gray-400 dark:text-gray-500 border-t border-gray-100 dark:border-gray-700 pt-4">
+          {t("settings.about.coauthored")}
+        </p>
       </div>
     </div>
   );

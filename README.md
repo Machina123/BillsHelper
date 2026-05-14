@@ -98,8 +98,8 @@ Frontend dev server runs at [http://localhost:5173](http://localhost:5173) and p
 
 ## License
 
-This project is licensed under [MIT License](./LICENSE.md).
+This project is licensed under [MIT License](./LICENSE).
 
 ## Acknowledgements
 
-Code in this repository has been co-authored by [Claude](https://claude.ai) from Anthropic.
+Code in this repository has been co-authored by [Claude](https://claude.ai) from Anthropic. 

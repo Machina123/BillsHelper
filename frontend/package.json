@@ -2,6 +2,8 @@
   "name": "billshelper",
   "private": true,
   "version": "1.0.0",
+  "author": "Patryk Ciepiela",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
