@@ -303,7 +303,7 @@ export default function CreateBatch() {
             disabled={createMutation.isPending || selected.size === 0}
             className="flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            <i className={`lni ${createMutation.isPending ? "lni-spinner" : "lni-download"} text-base leading-none`} />
+            <i className={`lni ${createMutation.isPending ? "lni-hourglass" : "lni-download-1"} text-base leading-none`} />
             {createMutation.isPending
               ? t("createBatch.generating")
               : t("createBatch.generateButton", { count: selected.size })}

@@ -151,12 +151,12 @@ function RecipientForm({ initial, onSubmit, onCancel, isPending, submitLabel, se
       <div className="flex gap-2 pt-2">
         <button type="submit" disabled={isPending}
           className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm rounded disabled:opacity-50">
-          <i className="lni lni-save text-base leading-none" />
+          <i className="lni lni-floppy-disk-1 text-base leading-none" />
           {isPending ? t("recipients.saving") : submitLabel}
         </button>
         <button type="button" onClick={onCancel}
           className="flex items-center gap-2 px-4 py-2 text-sm text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">
-          <i className="lni lni-close text-base leading-none" />
+          <i className="lni lni-xmark text-base leading-none" />
           {t("recipients.cancel")}
         </button>
       </div>
@@ -243,7 +243,7 @@ export default function Recipients() {
             onChange={(e) => { const f = e.target.files?.[0]; if (f) importMutation.mutate(f); }} />
           <button onClick={() => fileInputRef.current?.click()} disabled={importMutation.isPending}
             className="flex items-center gap-2 px-4 py-2 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 text-sm rounded hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-50">
-            <i className="lni lni-upload text-base leading-none" />
+            <i className="lni lni-upload-1 text-base leading-none" />
             <span className="hidden sm:inline">{importMutation.isPending ? "…" : t("recipients.import.button")}</span>
           </button>
           {!showAdd && (
@@ -269,7 +269,7 @@ export default function Recipients() {
               }`}>
               {t(`recipients.sort.${field === "name" ? "name" : "shortName"}`)}
               {sortField === field && (
-                <i className={`lni ${sortDir === "asc" ? "lni-arrow-up" : "lni-arrow-down"} text-xs leading-none`} />
+                <i className={`lni ${sortDir === "asc" ? "lni-arrow-upward" : "lni-arrow-downward"} text-xs leading-none`} />
               )}
             </button>
           ))}
@@ -345,7 +345,7 @@ export default function Recipients() {
                       )}
                     </p>
                   </div>
-                  <div className="flex flex-col items-end gap-1 shrink-0">
+                  <div className="hidden sm:flex flex-col items-end gap-1 shrink-0">
                     <span className="text-xs bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 px-2 py-0.5 rounded">
                       {transferTypeLabel(r.transfer_type, t)}
                     </span>
@@ -357,13 +357,13 @@ export default function Recipients() {
                     <button onClick={() => { setEditId(r.id); setShowAdd(false); setFormError(null); }}
                       className="flex items-center gap-1 px-2 py-1 text-xs text-blue-600 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/20 rounded"
                       title={t("recipients.edit")}>
-                      <i className="lni lni-pencil text-sm leading-none" />
+                      <i className="lni lni-pencil-1 text-sm leading-none" />
                       <span className="hidden sm:inline">{t("recipients.edit")}</span>
                     </button>
                     <button onClick={() => setDeleteId(r.id)}
                       className="flex items-center gap-1 px-2 py-1 text-xs text-red-500 dark:text-red-400 hover:bg-red-50 dark:hover:bg-red-900/20 rounded"
                       title={t("recipients.delete")}>
-                      <i className="lni lni-trash text-sm leading-none" />
+                      <i className="lni lni-trash-3 text-sm leading-none" />
                       <span className="hidden sm:inline">{t("recipients.delete")}</span>
                     </button>
                   </div>
@@ -384,12 +384,12 @@ export default function Recipients() {
             <div className="flex gap-2 justify-end">
               <button onClick={() => setDeleteId(null)}
                 className="flex items-center gap-2 px-4 py-2 text-sm text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">
-                <i className="lni lni-close text-base leading-none" />
+                <i className="lni lni-xmark text-base leading-none" />
                 {t("recipients.cancel")}
               </button>
               <button onClick={() => deleteMutation.mutate(deleteId!)} disabled={deleteMutation.isPending}
                 className="flex items-center gap-2 px-4 py-2 bg-red-600 hover:bg-red-700 text-white text-sm rounded disabled:opacity-50">
-                <i className="lni lni-trash text-base leading-none" />
+                <i className="lni lni-trash-3 text-base leading-none" />
                 {deleteMutation.isPending ? t("recipients.deleting") : t("recipients.delete")}
               </button>
             </div>

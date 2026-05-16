@@ -3,9 +3,9 @@ import { useTranslation } from "react-i18next";
 import { useTheme } from "../hooks/useTheme";
 
 const NAV_ITEMS = [
-  { to: "/", icon: "lni-layers", labelKey: "nav.createTransfers" },
-  { to: "/recipients", icon: "lni-users", labelKey: "nav.recipients" },
-  { to: "/settings", icon: "lni-cog", labelKey: "nav.settings" },
+  { to: "/", icon: "lni-layers-1", labelKey: "nav.createTransfers" },
+  { to: "/recipients", icon: "lni-user-multiple-4", labelKey: "nav.recipients" },
+  { to: "/settings", icon: "lni-sliders-horizontal-square-2", labelKey: "nav.settings" },
 ] as const;
 
 export default function Layout() {
@@ -46,14 +46,14 @@ export default function Layout() {
               className="flex items-center gap-1.5 px-3 py-1.5 rounded text-sm font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
               title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
             >
-              <i className={`lni ${theme === "dark" ? "lni-sun" : "lni-night"} text-base leading-none`} />
+              <i className={`lni ${theme === "dark" ? "lni-sun-1" : "lni-moon-half-right-5"} text-base leading-none`} />
             </button>
             <button
               onClick={toggleLang}
               className="flex items-center gap-1.5 px-3 py-1.5 rounded text-sm font-medium text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
               title="Switch language"
             >
-              <i className="lni lni-world text-base leading-none" />
+              <i className="lni lni-globe-1 text-base leading-none" />
               <span>{i18n.language === "pl" ? "EN" : "PL"}</span>
             </button>
           </div>

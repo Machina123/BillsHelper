@@ -76,7 +76,7 @@ export default function Settings() {
             disabled={!valid || mutation.isPending}
             className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm rounded disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            <i className="lni lni-save text-base leading-none" />
+            <i className="lni lni-floppy-disk-1 text-base leading-none" />
             {mutation.isPending ? t("settings.saving") : saved ? t("settings.saved") : t("settings.save")}
           </button>
           {data?.own_account_nrb && (
@@ -85,7 +85,7 @@ export default function Settings() {
               disabled={clearMutation.isPending}
               className="flex items-center gap-2 px-4 py-2 text-sm text-red-600 dark:text-red-400 border border-red-300 dark:border-red-700 rounded hover:bg-red-50 dark:hover:bg-red-900/20 disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              <i className="lni lni-trash text-base leading-none" />
+              <i className="lni lni-trash-3 text-base leading-none" />
               {t("settings.clear")}
             </button>
           )}
@@ -119,14 +119,14 @@ export default function Settings() {
                 rel="noopener noreferrer"
                 className="text-blue-600 dark:text-blue-400 hover:underline flex items-center gap-1"
               >
-                <i className="lni lni-github-original text-base leading-none" />
+                <i className="lni lni-github text-base leading-none" />
                 {t("settings.about.sourceLink")}
               </a>
             </dd>
           </div>
         </dl>
         <p className="mt-4 text-xs text-gray-400 dark:text-gray-500 border-t border-gray-100 dark:border-gray-700 pt-4">
-          {t("settings.about.coauthored")}
+          <i className="lni lni-claude text-sm leading-none" />{t("settings.about.coauthored")}
         </p>
       </div>
     </div>
