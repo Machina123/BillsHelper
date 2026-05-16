@@ -54,7 +54,7 @@ Frontend dev server at `:5173` proxies `/api` → `:8080`.
 - **Elixir-0 export encoding**: CP852 by default; Windows-1250 and UTF-8 are selectable. Amounts are integer cents (`12350`). Dates use `YYYYMMDD`. Execution date falls back to today if not set. Lines end with CRLF.
 - **Transfer title**: the final title written to the export file is `item.title` + ` ` + `recipient.title_suffix` (if set), truncated to 140 chars. The `title_suffix` is a static per-recipient string set on the recipient.
 - **Transfer types**: type 1 (regular) is the primary use case for individuals. Type 6 (split payment / VAT) is in the data model and export logic but not highlighted in the UI — business-only feature for future expansion. Types 2, 3, 4 are in the data model only; export logic is deferred.
-- **Static files path**: in `backend/app/main.py`, the frontend `dist/` is resolved with a single `..` from `app/main.py` → `/app/frontend/dist`. Two levels up overshoots the container root.
+- **Static files path**: in `backend/app/main.py`, the frontend `dist/` is resolved with a single `..` from `app/main.py` → `/app/frontend/dist`. Two levels up overshoots the container root. Static assets are served via a `StaticFiles` mount at `/assets`; a catch-all `/{full_path:path}` route returns `index.html` for all other paths so React Router handles client-side navigation including direct URL access and page refresh.
 
 ## Decision log
 

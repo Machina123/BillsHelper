@@ -64,3 +64,11 @@ The bank's export uses type 2 for tax office recipients. Our internal transfer_t
 
 ### Transfer types 2, 3, 4 deferred
 ZUS/KRUS (type 2) and tax office transfers (type 3/4) are included in the recipient `transfer_type` field for future use but export logic for their specific field layouts is not yet implemented.
+
+## 2026-05-16
+
+### SPA catch-all route instead of StaticFiles(html=True)
+`StaticFiles(html=True)` only serves `index.html` for directory-like paths; direct navigation to `/recipients` or a page refresh returned FastAPI's JSON 404 instead of the SPA shell. Replaced with an explicit `/assets` mount for the Vite-built bundles and a `/{full_path:path}` catch-all that returns `index.html` for any path not matched by the API routers or an existing file in `dist/`.
+
+### LineIcons upgraded from v4.0 to v5.1
+The CDN URL and all icon class names changed between major versions (e.g. `lni-layers` → `lni-layers-1`, `lni-world` → `lni-globe-1`, `lni-save` → `lni-floppy-disk-1`). Updated the `<link>` in `index.html` to the v5.1 line variant and renamed every icon class across `Layout.tsx`, `CreateBatch.tsx`, `Recipients.tsx`, and `Settings.tsx`.

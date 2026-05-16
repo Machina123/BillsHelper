@@ -17,6 +17,10 @@ os.path.join(os.path.dirname(__file__), "..", "frontend", "dist")
 ```
 One `..` from `app/main.py` → `/app/frontend/dist`. Two levels would overshoot to the container root.
 
+Serving uses two strategies:
+- **`/assets`** — `StaticFiles` mount for the Vite-built JS/CSS bundles (proper cache/ETag headers).
+- **`/{full_path:path}` catch-all** — serves a matching file from `dist/` if it exists (e.g. `favicon.ico`), otherwise returns `index.html` so React Router handles client-side navigation including direct URL access and page refresh.
+
 ### `docker-compose.yml`
 
 ```yaml

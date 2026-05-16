@@ -28,7 +28,7 @@ BillsHelper/
 │   │   └── versions/                 # Versioned migration scripts
 │   ├── alembic.ini                   # Alembic config
 │   ├── app/
-│   │   ├── main.py                   # FastAPI app, mounts static files
+│   │   ├── main.py                   # FastAPI app, /assets mount + SPA catch-all
 │   │   ├── database.py               # SQLAlchemy engine + session
 │   │   ├── models.py                 # ORM models
 │   │   ├── schemas.py                # Pydantic schemas (incl. IBAN validation)
